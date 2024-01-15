@@ -27,7 +27,7 @@ Change `TRAIN.VAL.val_data_dir0` to your val data path.
 
 If you have any question, please contact us without hesitation.
 
-If you find CAAO useful in your research, please consider citing.
+If you find TEAN useful in your research, please consider citing.
 
 @ARTICLE{10102515,
   author={Shu, Rui and Zhao, Cairong and Feng, Shuyang and Zhu, Liang and Miao, Duoqian},
